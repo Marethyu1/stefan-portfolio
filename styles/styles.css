@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    background-color: #F0F0F0;
+}
+
+p {
+    color: #00000080;
+}
+
+.navbar {
+    background-color: white;
+    height: 90px;
+    justify-content: center;
+    position: absolute;
+}
+
+.navbar-text {
+    text-align: center;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.footer{
+    background-color: white;
+    min-height: 80px;
+    line-height: 80px;
+}
